@@ -8,7 +8,7 @@ import random
 from webdriver_manager.chrome import ChromeDriverManager
 driver = wd.Chrome(ChromeDriverManager().install())
 
-url='https://www.change.org/p/gitam-administration-being-inconsiderate-with-the-conducting-of-online-semester-examinations-at-gitam'
+#url='https://www.change.org/p/gitam-administration-being-inconsiderate-with-the-conducting-of-online-semester-examinations-at-gitam'
 
 '''
 ##for hosting in heroku
@@ -23,12 +23,13 @@ driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), c
 print("""
    ___    _   _   _                ____        _
   /   \  | | | | | |_    ___      | __ )  ___ | |_
- |	_  | | | | | | __|  / _ \     |  _ \ / _ \| __|
+ |  _  | | | | | | __|  / _ \     |  _ \ / _ \| __|
  | | | | | |_| | | |   | (_) |    | |_) | (_) | |_
  |_| |_| |_____| \__|   \___/     |____/ \___/ \__|
 
 
- Author:Srijan
+ Author		:Srijan
+ version	: 1.9.3
 
 """)
 
@@ -67,6 +68,7 @@ def loop(count):
 	driver.get(url)
 
 def main():
+	url=input("Paste your petition URL here	:",end="\n")
 	driver.get(url)
 	num=0
 	for _ in range(1,1000):
