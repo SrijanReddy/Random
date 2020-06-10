@@ -1,0 +1,4 @@
+pure-python-adb
+Pillow
+mss
+numpy
