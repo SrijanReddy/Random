@@ -1,0 +1,4 @@
+  selenium
+  random
+  json
+  webdriver_manager
