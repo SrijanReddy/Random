@@ -5,4 +5,4 @@ A python gui to shutdown pc automatically after calculating movie running time
 </i>
 
 <br>
-for calculating the duration of movie it scrapes the movie details from internet
+>For calculating the duration of movie it scrapes the movie details from internet
