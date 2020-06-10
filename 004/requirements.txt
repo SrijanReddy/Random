@@ -1,0 +1,7 @@
+flask
+bs4
+re
+requests
+urlib
+json
+string
