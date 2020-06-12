@@ -1,0 +1,524 @@
+[
+    {
+        "id": 1,
+        "quote": "If I have to have a past, then I prefer it to be multiple choice. ",
+        "quotee": "Alan Moore",
+        "issue": "Batman: The Killing Joke"
+    },
+    {
+        "id": 3,
+        "quote": "Adults…struggle desperately with fiction, demanding constantly that it conform to the rules of everyday life. Adults foolishly demand to know how Superman can possibly fly, or howBatman can possibly run a multi-billion-dollar business empire during the day and fight crime at night, when the answer is obvious even to the smallest child: because it’s not real. ",
+        "quotee": "Grant Morrison",
+        "issue": "Supergods"
+    },
+    {
+        "id": 5,
+        "quote": "You don’t get heaven or hell. Do you know the only reward you get for beingBatman? You get to beBatman. ",
+        "quotee": "Neil Gaiman",
+        "issue": "Batman"
+    },
+    {
+        "id": 7,
+        "quote": "Don’t talk like one of them. You’re not! Even if you’d like to be. To them, you’re just a freak, like me! They need you right now, but when they don’t, they’ll cast you out, like a leper! You see, their morals, their code, it’s a bad joke. Dropped at the first sign of trouble. They’re only as good as the world allows them to be. I’ll show you. When the chips are down, these… these civilized people, they’ll eat each other. See, I’m not a monster. I’m just ahead of the curve. ",
+        "quotee": "The Joker",
+        "issue": "Dark Knight"
+    },
+    {
+        "id": 9,
+        "quote": "Ladies. Gentlemen. You have eaten well. You’ve eaten Gotham’s wealth. Its spirit. Your feast is nearly over. From this moment on…none of you are safe. ",
+        "quotee": "Frank Miller",
+        "issue": "Batman"
+    },
+    {
+        "id": 11,
+        "quote": "I’m the goddamnBatman. ",
+        "quotee": "Frank Miller",
+        "issue": "All-StarBatman and Robin"
+    },
+    {
+        "id": 13,
+        "quote": "You either die a hero or you live long enough to see yourself become the villain. ",
+        "quotee": "Harvey Dent",
+        "issue": "Not Found"
+    },
+    {
+        "id": 15,
+        "quote": "Batman: a force of chaos in my world of perfect order. The dark side of the Soviet dream. Rumored to be a thousand murdered dissidents, they said he was a ghost. A walking dead man. A symbol of rebellion that would never fade as long as the system survived. Anarchy in black. ",
+        "quotee": "Mark Millar",
+        "issue": "Superman"
+    },
+    {
+        "id": 17,
+        "quote": "Alfred: Hmf. I suppose you’ll take up flying next, like that fellow in Metropolis. ",
+        "quotee": "Frank Miller",
+        "issue": "Batman"
+    },
+    {
+        "id": 19,
+        "quote": "Batman is easily my most favorite character beside Spawn. ",
+        "quotee": "Todd McFarlane",
+        "issue": "Not Found"
+    },
+    {
+        "id": 21,
+        "quote": "It’s not who I am underneath, but what I do that defines me.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 23,
+        "quote": "Sometimes the truth isn’t good enough, sometimes people need more.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 25,
+        "quote": "A hero can be anyone, even a man doing something as simple as reassuring putting a coat on a young boy’s shoulders.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 27,
+        "quote": "I have one power. I never give up.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 29,
+        "quote": "Why do we fall? So that we can learn to pick ourselves up.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 31,
+        "quote": "All men have limits. They learn what they are and learn not to exceed them. I ignore mine  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 33,
+        "quote": "Everything’s impossible until somebody does it.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 35,
+        "quote": "If you can carry it to the top of the mountain you may find what you were looking for in the first place. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 37,
+        "quote": "But I know the rage that drives you. That impossible anger strangling the grief, until the memory of your loved ones is just poison in your veins. And one day you catch yourself wishing the person you loved had never existed, so you’d be spared your pain. ? Christopher Nolan",
+        "quotee": "Ras-al-gul",
+        "issue": "Batman begins"
+    },
+    {
+        "id": 39,
+        "quote": "Show some respect. They were your grandparents.’ ‘Just names and dusty frames on the wall to me.’ ‘I take exception to that. There is not a speck of dust collecting on those portraits.’ ",
+        "quotee": "Peter J. Tomasi",
+        "issue": "Batman and Robin"
+    },
+    {
+        "id": 41,
+        "quote": "Fear clears the mind. Panic clouds it. ",
+        "quotee": "Marie Lu",
+        "issue": "Batman"
+    },
+    {
+        "id": 43,
+        "quote": "[At his parents’ graves] I’ve brought a young man — a boy, actually — to stay at the house. He’s … lost his parents at roughly the same age that I … That I lost you. I don’t know what will happen. I don’t see myself as any sort of father figure. But … I think I can make a difference in his life. ",
+        "quotee": "Jeph Loeb",
+        "issue": "Batman"
+    },
+    {
+        "id": 45,
+        "quote": "Gotham may have lost its king and queen, Bruce, but it could still have its prince ",
+        "quotee": "Geoff Johns",
+        "issue": "Not Found"
+    },
+    {
+        "id": 47,
+        "quote": "And yes, it all might end at any moment for any of us, in violence or not, but what matters is what we do before that. The lives we lead. ",
+        "quotee": "Scott Snyder",
+        "issue": "Batman"
+    },
+    {
+        "id": 49,
+        "quote": "Batman’s not a hero. He’s a complicated character. I don’t think I could ever play a real hero — there’s always got to be something a little bit wrong. I think it’s because one of my eyes is smaller than the other one. ",
+        "quotee": "Robert Pattinson",
+        "issue": "Not Found"
+    },
+    {
+        "id": 51,
+        "quote": "There are no heroes and there are no villains. There are just opposing points of view. That’s all history is… the viscously long battle between world views. And eventually -Finally- no matter how much it may hurt, Truth wins out. Every. Damn. Time. ",
+        "quotee": "Peter J. Tomasi",
+        "issue": "Batman"
+    },
+    {
+        "id": 53,
+        "quote": "Sometimes people identified too strongly with the famous—it was one of the prices of notoriety, especially when so many considered you to be a hero.Batman sometimes filled much too large a hole in people’s lives. ",
+        "quotee": "Craig Shaw Gardner",
+        "issue": "TheBatman Murders"
+    },
+    {
+        "id": 55,
+        "quote": "Harvey. Grundy. Myself. Each of us lost pieces of our lives……and hid what was left in the dark, is this what I want for myself? A world that exists only in darkness? ",
+        "quotee": "Jeph Loeb",
+        "issue": "Batman"
+    },
+    {
+        "id": 57,
+        "quote": "This is what happens when an unstoppable force meets an immovable object. You truly are incorruptible, aren’t you? You won’t kill me out of some misplaced sense of self-righteousness. And I won’t kill you because you’re just too much fun. I think you and I are destined to do this forever. ",
+        "quotee": "The Joker",
+        "issue": "Not Found"
+    },
+    {
+        "id": 59,
+        "quote": "Bats frighten me. It’s time my enemies share my dread. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 61,
+        "quote": "Perhaps the knife was too slow. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 63,
+        "quote": "Tell me where the trigger is, then you have my permission to die. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 65,
+        "quote": "Drive sports cars, date movie stars, buy things that are not for sale… who knows, Master Wayne? You start pretending to have fun, you might even have a little by accident. ",
+        "quotee": "Alfred Pennyworth",
+        "issue": "Not Found"
+    },
+    {
+        "id": 67,
+        "quote": "The night is darkest just before the dawn. And I promise you, the dawn is coming. ",
+        "quotee": "Harvey Dent",
+        "issue": "Not Found"
+    },
+    {
+        "id": 69,
+        "quote": "People need dramatic examples to shake them out of apathy and I can’t do that as Bruce Wayne. As a man I’m flesh and blood, I can be ignored, I can be destroyed, but as a symbol, as a symbol I can be incorruptible. I can be everlasting. ",
+        "quotee": "Bruce Wayne",
+        "issue": "Not Found"
+    },
+    {
+        "id": 71,
+        "quote": "It’s not who I am underneath, but what I do that defines me. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 73,
+        "quote": "I’m whatever Gotham needs me to be. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 75,
+        "quote": "Because we have to chase him. Because he’s the hero Gotham deserves, but not the one it needs right now, so we’ll hunt him. Because he can take it, because he’s not a hero. He’s a silent guardian, a watchful protector, a Dark Knight. ",
+        "quotee": "James Gordon ",
+        "issue": "Not Found"
+    },
+    {
+        "id": 77,
+        "quote": "Run, Bruce! Run from the truth! Run like you always have…but when you feel that prickling on the back of your neck, know that I’m coming for you! Reaching you from the other side of your reflection! ",
+        "quotee": "Scott Snyder",
+        "issue": "Not Found"
+    },
+    {
+        "id": 79,
+        "quote": "Desire becomes surrender. Surrender becomes Power. ",
+        "quotee": "The Joker",
+        "issue": "Not Found"
+    },
+    {
+        "id": 81,
+        "quote": "You’re not a superhero. You’re a spy. With a gun. You’re not Wing-Knight or Nightwing or whatever. You’re agent 37. ",
+        "quotee": "Tom King",
+        "issue": "Grayson"
+    },
+    {
+        "id": 83,
+        "quote": "The Joker as sadistic chaos, theBatman as merciless order. This mirror-image theme would come to define the two characters’ relationship in the comics and across all media for the next forty years. ",
+        "quotee": "Glen Weldon",
+        "issue": "The Caped Crusade"
+    },
+    {
+        "id": 85,
+        "quote": "The whereabouts ofBatman remain unknown. And yet… I can see him now, in the grip of implacable forces, innumerable foes. Somewhere without hope. In a place where all seems lost. And I know this… the enemy will look away, for just a moment, underestimating him for that single fraction of a second too long. And no matter how dark the night… there will be no hiding place for evil. ",
+        "quotee": "Grant Morrison",
+        "issue": "Batman"
+    },
+    {
+        "id": 87,
+        "quote": "Batman was human. He had no powers. He stood next to Gods and said, I handle my city. ",
+        "quotee": "Scott Snyder",
+        "issue": "Batman (2011-2016) #46 "
+    },
+    {
+        "id": 89,
+        "quote": "A gun is a coward’s weapon. A liar’s weapon. We kill…too often because we’ve made it easy…too easy…sparing ourselves the mess.. and the work.. ",
+        "quotee": "Frank Miller",
+        "issue": "Not Found"
+    },
+    {
+        "id": 91,
+        "quote": "We all look for meaning behind the tragedies that befall us. And sometimes the meaning is there. But sometimes, Master Bruce, terrible things just happen. No sinister plots. No secret societies. They just happen. ",
+        "quotee": "Batman vs. Robin",
+        "issue": "Alfred"
+    },
+    {
+        "id": 93,
+        "quote": "Live bravely in the time you have and smile at the void. ",
+        "quotee": "Scott Snyder",
+        "issue": "Batman (2011-2016) #40 "
+    },
+    {
+        "id": 95,
+        "quote": "I always claimed I became theBatman to fight crime. That was a lie. I did it to overcome the fear. ",
+        "quotee": "Jim Starlin",
+        "issue": "Batman"
+    },
+    {
+        "id": 97,
+        "quote": "This city just showed you that it’s full of people ready to believe in good.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 99,
+        "quote": "You cannot lead these men unless you are prepared to do what is necessary to defeat evil.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 101,
+        "quote": "Why do we fall, Bruce? So that we can learn to pick ourselves back up. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 103,
+        "quote": "Criminals are like weeds, Alfred; pull one up, another grows in its place.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 105,
+        "quote": "I respect the mind’s power over the body. It’s why I do what I do.  ",
+        "quotee": "Batman ",
+        "issue": "Not Found"
+    },
+    {
+        "id": 107,
+        "quote": "I knew Harvey Dent, I was his friend and it will be a very long time before someone…Inspires us the way he did.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 109,
+        "quote": "Gotham, take control… take control of your city. Behold, the instrument of your liberation! Identify yourself to the world!  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 111,
+        "quote": "Sometimes people deserve to have their faith rewarded  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 113,
+        "quote": "Targeting me won’t get their money back. I knew the mob wouldn’t go down without a fight, but this is different. They crossed the line. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 115,
+        "quote": "Gambol: You’re just a freak in a cheap suit. Joker: The suit, it ain’t cheap, you oughta know you bought it. ",
+        "quotee": "Gambol/Joker",
+        "issue": "Not Found"
+    },
+    {
+        "id": 117,
+        "quote": "This city just showed you that it’s full of people ready to believe in good. ",
+        "quotee": "Batman/Bruce Wayne",
+        "issue": "Not Found"
+    },
+    {
+        "id": 119,
+        "quote": "Some men aren’t looking for anything logical like money. They can’t be bought, bullied, reasoned or negotiated with. ",
+        "quotee": "Alfred Pennyworth",
+        "issue": "Not Found"
+    },
+    {
+        "id": 121,
+        "quote": "You thought we could be decent men in an indecent time! But you were wrong. The world is cruel. ",
+        "quotee": "Two-Face",
+        "issue": "Not Found"
+    },
+    {
+        "id": 123,
+        "quote": "It is a far, far better thing that I do than I have ever done; it is a far, far better rest that I go to than I have ever known. ",
+        "quotee": "Jim Gordon",
+        "issue": "Not Found"
+    },
+    {
+        "id": 125,
+        "quote": "The first time I stole so that I wouldn’t starve, I lost many assumptions about the simple nature of right and wrong. And when I traveled, I learned the fear before a crime and the thrill of success. But I never became one of them. ",
+        "quotee": "Bruce Wayne ",
+        "issue": "Not Found"
+    },
+    {
+        "id": 127,
+        "quote": "A criminal is not complicated. What you really fear is inside yourself. You fear your own power. You fear your anger, the drive to do great or terrible things.  ",
+        "quotee": "Ra’s Al Ghul",
+        "issue": "Not Found"
+    },
+    {
+        "id": 129,
+        "quote": "Justice is balance. You burned my house and left me for dead. Consider us even.  ",
+        "quotee": "Ra’s Al Ghul",
+        "issue": "Not Found"
+    },
+    {
+        "id": 131,
+        "quote": "Bruce…if you turn yourself in, they’re not gonna let us be together. ",
+        "quotee": "Rachel Dawes",
+        "issue": "Not Found"
+    },
+    {
+        "id": 133,
+        "quote": "You care about justice? Look beyond your own pain, Bruce. This city is rotting. People talk about the depression as if it’s history. It’s not. Things are worse than ever down here. ",
+        "quotee": "Rachel Dawes",
+        "issue": "Not Found"
+    },
+    {
+        "id": 135,
+        "quote": "Always be yourself! Unless you can beBatman, then always beBatman. ",
+        "quotee": "Shadowtext",
+        "issue": "Not Found"
+    },
+    {
+        "id": 137,
+        "quote": "Any negative trait, if known, becomes your ultimate trait. Unless you areBatman. ",
+        "quotee": "Nikhil Sharda",
+        "issue": "Sans Destination"
+    },
+    {
+        "id": 139,
+        "quote": "Say, what’s the question mark for? Sexual identity? ",
+        "quotee": "Dan Slott",
+        "issue": "Arkham Asylum"
+    },
+    {
+        "id": 141,
+        "quote": "The antidote to joy is dread. ",
+        "quotee": "Sam Hamm",
+        "issue": "Batman: Blind Justice"
+    },
+    {
+        "id": 143,
+        "quote": "DoesBatman ever NOT have a plan…? ",
+        "quotee": "Mark Waid",
+        "issue": "Kingdom Come #2 "
+    },
+    {
+        "id": 145,
+        "quote": "We must not remind them that giants walk the Earth. ",
+        "quotee": "Frank Miller",
+        "issue": "Batman"
+    },
+    {
+        "id": 147,
+        "quote": "Gotham City. Clean shafts of concrete and snowy rooftops. The work of men who died generations ago. From here, it looks like an achievement. From here, you can’t see the enemy. ",
+        "quotee": "Frank Miller",
+        "issue": "Batman: Year One"
+    },
+    {
+        "id": 149,
+        "quote": "I made a promise to my parents that I would rid the city of the evil that took their lives. ",
+        "quotee": "Jeph Loeb",
+        "issue": "Batman: The Long Halloween"
+    },
+    {
+        "id": 151,
+        "quote": "I’m thinking of killing everyone whose name is a palindrome ",
+        "quotee": "Dan Slott",
+        "issue": "Arkham Asylum"
+    },
+    {
+        "id": 153,
+        "quote": "Lots of folks would argue that Bruce hides behind his perfectly coiffed hair and ever-easy smile far more thanBatman does underneath his cowl. ",
+        "quotee": "Paul Asay",
+        "issue": "God on the Streets of Gotham"
+    },
+    {
+        "id": 155,
+        "quote": "People need dramatic examples to shake them out of apathy.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 157,
+        "quote": "Sometimes it’s only madness that makes us what we are.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 159,
+        "quote": "I wear a mask. And that mask, it’s not to hide who I am, but to create what I am.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 161,
+        "quote": "If I have to have a past, then I prefer it to be multiple choice.  ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 163,
+        "quote": "Without warning, it comes…crashing through the window of your study, and mine…I have seen it before…somewhere. It frightened me as a boy… frightened me. Yes, father. I shall become a bat. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 165,
+        "quote": "I won’t kill you, but I don’t I have to save you. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 167,
+        "quote": "If you need to stop an asteroid, you call Superman. If you need to solve a mystery, you callBatman. But if you need to end a war, you call Wonder Woman. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 169,
+        "quote": "You finally learned to do what is necessary. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 171,
+        "quote": "You are as precious to me as you were to your own mother and father. I swore to them that I would protect you, and I haven’t. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    },
+    {
+        "id": 173,
+        "quote": "It’s obvious. Only a criminal would disguise himself as a licensed, bonded guard yet callously park in front of a fire hydrant. ",
+        "quotee": "Batman",
+        "issue": "Not Found"
+    }
+]
