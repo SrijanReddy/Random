@@ -6,7 +6,7 @@ I tried to create a web API using Flask and Python. Web APIs are tools for makin
 
 source for quotes-[link](https://inspirationfeed.com/batman-quotes/)
 
-First I saved those quotes in a text file and seperated them as quote, id, quotee as saved them into a json using python. After that i converted that json into database using sqlite then I loaded that sqlite file into flask application.
+First I saved those quotes in a text file and seperated them as quote, id, quotee and saved them into a json using python. After that i converted that json into database using sqlite then I loaded that sqlite file into flask application.
  
  *To run this API-* <br>
  - Download the repo <br>
