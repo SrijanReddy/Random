@@ -1,0 +1,7 @@
+json
+requests
+bs4
+speech_recognition
+gtts
+pygame
+lxml
