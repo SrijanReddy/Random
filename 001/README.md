@@ -5,4 +5,4 @@
 <i>A bot to auto-fill petitions on change.org built using python and selenium
 </i>
 
->  note: bot not working right now website added captcha
+>  note: bot not working right now as website added captcha
