@@ -1,0 +1,15 @@
+{
+	"name": "Rezo Gaming",
+	"version": "0.1",
+	"manifest_version": 2,
+	"description": "Free Games Online",
+	"app": {
+        	"urls": ["https://srijanreddy.github.io/"],
+        	"launch": {
+            		"web_url": "https://srijanreddy.github.io/"
+        	}
+    	},
+	"icons": {
+		"128": "logo.png"
+	}
+}
