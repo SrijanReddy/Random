@@ -1,0 +1,1 @@
+# Rezo Gaming browser extension
