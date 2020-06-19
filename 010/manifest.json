@@ -1,0 +1,15 @@
+{
+	"name": "Rezo Gaming",
+	"version": "0.1",
+	"manifest_version": 2,
+	"description": "Free Games Online",
+	"browser_action": {
+		"default_icon": "logo.png",
+		"default_title": "REZO-GAMING",
+		"default_popup": "index.html"
+	},
+	"content_security_policy": "script-src 'self' https://www.google.com; object-src 'self'",
+	"icons": {
+		"128": "logo.png"
+	}
+}
