@@ -20,7 +20,7 @@ chrome_options.add_argument("--no-sandbox")
 driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
 '''
 
-print("""
+print(r"""\
    ___    _   _   _                ____        _
   /   \  | | | | | |_    ___      | __ )  ___ | |_
  |  _  | | | | | | __|  / _ \     |  _ \ / _ \| __|
