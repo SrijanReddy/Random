@@ -1,1 +1,1 @@
-# Twilio Covid-19 bot using python
+# Twilio Covid-19 Whatsapp bot using python
