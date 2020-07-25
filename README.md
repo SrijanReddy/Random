@@ -25,6 +25,6 @@
 <br>
 011-[Automated Dino Runner Bot](https://github.com/SrijanReddy/Random/tree/master/011)
 <br>
-013-[Twilio Covid-19 bot using Python](https://github.com/SrijanReddy/Random/tree/master/013)
+013-[Twilio Covid-19 Whatsapp bot using Python](https://github.com/SrijanReddy/Random/tree/master/013)
 <br>
 014-[Reddit commentary Video Automation using Python](https://github.com/SrijanReddy/Random/tree/master/014)
